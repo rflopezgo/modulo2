@@ -1,11 +1,11 @@
-# Desarrolla software con herramientas orientadas a la productividad.
+# Desarrollar software con herramientas orientadas a la productividad (Semana 1)
+• Emplear frameworks para el desarrollo de software 
+• Aplicar metodologías ágiles para el desarrollo de software  [1].
 
-Codifica aplicaciones con frameworks de desarrollo [1].
 
+# Presentación.
+El objetivo del siguiente repositorio desarrollar las competencias necesarias para _aplicar metodologias ágiles y emplear frameworks para el desarrollo de software._
 
-# Descripción.
-El propósito de este repositorio público, es apoyar al desarrollo de la competencia laboral básica de 
-_codificar aplicaciones con framewoks de desarrollo_ que permita aplicar soluciones a problemas simples en contextos conocidos y específicos.
 
 # Proceso para la formación. 
 Este  proceso se lleva a cabo con el enfoque de competencias laborales, que desarrollan en el estudiantado 
