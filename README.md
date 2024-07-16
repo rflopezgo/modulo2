@@ -1,6 +1,7 @@
 # Desarrollar software con herramientas orientadas a la productividad (Semana 1)
-• Emplear frameworks para el desarrollo de software 
-• Aplicar metodologías ágiles para el desarrollo de software  [1].
+Los submodulos a evaluar son:
+• Emplear frameworks para el desarrollo de software. Con 144 horas semestria
+• Aplicar metodologías ágiles para el desarrollo de software.
 
 
 # Presentación.
@@ -8,10 +9,13 @@ El objetivo del siguiente repositorio desarrollar las competencias necesarias pa
 
 
 # Proceso para la formación. 
-Este  proceso se lleva a cabo con el enfoque de competencias laborales, que desarrollan en el estudiantado 
-una experiencia relevante y flexible, que mejore su comprensión y aplicación en su capacidad de diseñar, codificar e implementar 
-software de sistemas informáticos [1]. 
- 
+Este proceso general de aprendizajes y saberes profesionales, el estudiantado desarrollará las siguientes:  [1]. 
+• Configura entornos de desarrollo con frameworks.
+• Integra addons al framework para extender funcionalidades.
+• Codifica aplicaciones con frameworks de desarrollo.
+• Utiliza herramientas de metodologías ágiles en el desarrollo de software.
+• Desarrolla proyectos de software con metodologías ágiles.
+
 
 # Enfoque basado en competencia laboral básica. 
 Este planteamiento hace referencia a los aprendizajes clave esperados de conocimientos (saber), habilidades (saber hacer) y actitudes (saber ser)
